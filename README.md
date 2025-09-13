@@ -9,5 +9,7 @@ Materials used:
 <img width="634" height="795" alt="Image" src="https://github.com/user-attachments/assets/aac8e94a-2e69-4fc6-a296-832e66b94d4d" />
 
 
+
 Adding resistance:
+
 <img width="691" height="798" alt="Image" src="https://github.com/user-attachments/assets/321ff772-cfb5-40e4-b839-19b83f38048d" />
