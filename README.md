@@ -1,7 +1,7 @@
 # Buffer-Amplifier
 Building a buffer amplifier using a 741 op-amp, and testing with resistors
 
-<img width="994" height="746" alt="Image" src="https://github.com/user-attachments/assets/9c539277-d91c-4d4f-81cd-13988236faff" />
+<img width="497" height="373" alt="Image" src="https://github.com/user-attachments/assets/9c539277-d91c-4d4f-81cd-13988236faff" />
 
 Materials used:
 10μF Capacitors, Various Resistors (2k, 10k, 30k, 100k Ohms), 741 Op-Amp, Breadboard, Wires, Oscilloscope, Function generator, Voltage source
@@ -17,3 +17,5 @@ Adding resistance:
 <img width="751" height="624" alt="Image" src="https://github.com/user-attachments/assets/8f1f82c9-144a-4152-b5ad-0106f62d8bdb" />
 
 We observed that adding resistance did not affect the output signal, hence the “buffer” amplifier. This amplifier has a good real-world use, by preventing the load from affecting the source.
+
+<img width="728" height="802" alt="Image" src="https://github.com/user-attachments/assets/f99481bc-5dfd-4a2e-a754-1f198474c5e4" />
