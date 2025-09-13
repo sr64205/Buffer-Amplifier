@@ -5,3 +5,5 @@ Building a buffer amplifier using a 741 op-amp, and testing with resistors
 
 Materials used:
 10μF Capacitors, Various Resistors (2k, 10k, 30k, 100k Ohms), 741 Op-Amp, Breadboard, Wires, Oscilloscope, Function generator, Voltage source
+
+<img width="634" height="795" alt="Image" src="https://github.com/user-attachments/assets/aac8e94a-2e69-4fc6-a296-832e66b94d4d" />
