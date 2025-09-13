@@ -10,3 +10,4 @@ Materials used:
 
 
 Adding resistance:
+<img width="691" height="798" alt="Image" src="https://github.com/user-attachments/assets/321ff772-cfb5-40e4-b839-19b83f38048d" />
